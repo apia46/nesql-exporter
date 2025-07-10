@@ -3,7 +3,7 @@ package com.github.dcysteine.nesql.exporter.plugin.gregtech.util;
 import com.github.dcysteine.nesql.sql.base.recipe.Dimension;
 import gregtech.api.enums.ItemList;
 import gregtech.api.recipe.RecipeMaps;
-import gregtech.api.util.GT_LanguageManager;
+import gregtech.api.util.GTLanguageManager;
 
 /** Enum of supported GregTech recipe maps. */
 public enum RecipeMap {
