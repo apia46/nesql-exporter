@@ -643,7 +643,7 @@ public enum RecipeMap {
             Dimension itemOutputDimension, Dimension fluidOutputDimension) {
         this.recipeMap = recipeMap;
         this.shortName = shortName;
-        this.name = GT_LanguageManager.getTranslation(recipeMap.unlocalizedName);
+        this.name = GTLanguageManager.getTranslation(recipeMap.unlocalizedName);
         this.icon = icon;
         this.shapeless = shapeless;
         this.itemInputDimension = itemInputDimension;
